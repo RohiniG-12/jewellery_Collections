@@ -1,3 +1,26 @@
 .navbar{
     background-color: #ffffff;
 }
+.body-img{
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    margin-top: 40px;
+}
+.img{
+    height: 300px;
+    width: 350px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.heading1{
+    text-align: center;
+}
+.heading2{
+    margin-top: 40px;
+}
+.heading3{
+    margin-top: 150px;
+}
