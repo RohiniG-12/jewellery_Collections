@@ -1,0 +1,13 @@
+.size{
+    height:350px;
+    width: 380px;
+}
+.card-img-top{
+    padding-top: 20px;
+    padding-left: 80px;
+    height: 350px;
+    width: 380px;
+}
+.row{
+    margin-top: 40px;
+}
