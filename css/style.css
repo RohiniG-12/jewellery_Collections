@@ -1,3 +1,10 @@
+.back{
+    background-image: url(../images/home_img.jpg);
+    font-family: "poppins",sans-serif;
+}
+.flex{
+   mar
+}
 .navbar{
     background-color: #ffffff;
 }
@@ -14,9 +21,14 @@
     margin-left: 10px;
     margin-top: 50px;
     border-radius: 5px;
+    border-radius: 20px 100px 0px 100px;
 }
 .margin{
-    margin-top: 600px;
+    margin-top:50px 
+}
+.margin1{
+    margin-bottom: 20px;
+
 }
 .heading1{
     text-align: center;
@@ -31,6 +43,7 @@
     border: 1px solid black;
     margin-left: 10px;
 }
+
 /*footer css*/
 footer {
     background-color: #212529 ;
