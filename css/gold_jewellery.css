@@ -22,17 +22,17 @@
     width: 25px;
     
 }
-.btn{
-    width:120px;
-    margin: 20px auto;
+ .btn{
+    width:110px;
+    margin: 20px 40px;
      background-color: #acacac;
      border-radius: 5px;
      box-shadow: #acacac;
     
- }
+ } 
     
 
-.span{
+/* .span{
     margin-top: 50px;
-}
+} */
 

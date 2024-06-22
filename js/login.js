@@ -3,12 +3,12 @@ function submit(){
     let password = document.getElementById("password");
      if(email.value == "")
     {
-        alert("Please Enter Your Email-Id")
+        alert("Please Enter Your Email-Id");
     }
     else 
     if(password.value == "")
     {
-        alert("Please Enter Your Password")
+        alert("Please Enter Your Password");
     }
     else 
      alert("Login successful");

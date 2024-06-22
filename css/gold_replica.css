@@ -23,10 +23,13 @@
     width: 25px;
 }
 .btn{
-   width:120px;
-   margin: 20px auto;
-    background-color: #acacac;
-    border-radius: 5px;
-    box-shadow: #acacac;
-   
-}
+    width:110px;
+    margin: 20px 40px;
+     background-color: #ffb3ff;
+     border-radius: 5px;
+     box-shadow: #acacac;
+ } 
+ .btn:hover{
+    background-color: #ff4dff;
+    box-shadow: 1px 1px 1px 1px #990099;
+ }
